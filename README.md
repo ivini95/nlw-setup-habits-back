@@ -4,6 +4,8 @@
 
 Habits é uma aplicação de ponta a ponta desenvolvida utilizando as seguintes tecnologias :
 
+Back-end
+
 * NodeJs
 * SqlLite
 * Prisma
